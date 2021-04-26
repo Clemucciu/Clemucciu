@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Clemucciu
 - 👀 I’m interested in Blender & Airtable
 - 🌱 I’m currently learning Python
+- I would like to import/export data easily from Airtable to Blender
 
 Not much going so far
 
