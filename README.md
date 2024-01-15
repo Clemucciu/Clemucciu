@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Clemucciu
-- 👀 I’m interested in Blender, Film & Construction
+- 👀 I’m interested in Blender, Film & Architecture
 - 🌱 I’m currently building websites with Directus Cloud on the backend and Nuxt/Krpano on the front end.
 
 <!---
