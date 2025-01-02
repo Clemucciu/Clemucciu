@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Clemucciu
 - 👀 I’m interested in Blender, Film & Architecture
-- 🌱 I’m currently building websites with Directus Cloud on the backend and Nuxt/Krpano on the front end.
+- 🌱 I’m currently building websites with Directus Cloud on the backend and Nuxt on the front end.
 
 <!---
 Clemucciu/Clemucciu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
