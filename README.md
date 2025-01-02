@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Clemucciu
+- 👋 Hi, I’m @clemucciu
 - 👀 I’m interested in Blender, Film & Architecture
 - 🌱 I’m currently building websites with Directus Cloud on the backend and Nuxt on the front end.
 
